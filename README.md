@@ -1,4 +1,4 @@
-# AI & ML Internship - Task 3: Linear Regression
+Linear Regression
 
 This repository contains the implementation of simple and multiple linear regression models for house price prediction.
 
